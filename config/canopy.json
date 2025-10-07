@@ -1,0 +1,16 @@
+{
+  "collection": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+  "devCollection": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+  "metadata": ["unit"],
+  "label": { "none": ["Dr. Seipp Class Example"] },
+  "summary": {
+    "none": ["Brief description of the site and its contents."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
